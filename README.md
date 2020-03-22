@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Branch for demo purposes only.
 
 #### Do not use it for your projects
@@ -29,3 +30,7 @@ View this jekyll theme in action [here](https://jeromelachaud.github.io/freelanc
 ![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
 
 For more details, read the [documentation](http://jekyllrb.com/)
+=======
+# JUNKWEBSITE
+Jekyll theme based on Freelancer Start Bootstrap theme
+>>>>>>> a87ba96d9a5230ec4ee9dfc91a0aceeff5397e8e
